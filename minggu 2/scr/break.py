@@ -1,0 +1,5 @@
+for i in range (20) :
+    if i == 10 :
+        print("angka sudah melebihi nilai 9")
+        break
+    print(i)
